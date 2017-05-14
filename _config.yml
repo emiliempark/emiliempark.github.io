@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Emilie Park
-  avatar: 
+  # avatar: 
   job: "UX Engineer"
   bio: "Design UI/UX and front-end development, React JS and Native player"
   email: emiliempark@gmail.com

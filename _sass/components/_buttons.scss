@@ -15,15 +15,14 @@
   border-style: solid !important;
   border-color: $primary;
   text-decoration: none !important;
-  border-radius: 5px;
+  border-radius: 2px;
   &:visited {
     color: $white;
     border-color: $primary;
   }
   &:hover {
-    background-color: $white;
-    color: $primary;
-    border-color: $primary;
+    background-color: darken($primary, 5%);
+    color: #fff;
   }
 }
 
